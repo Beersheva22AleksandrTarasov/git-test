@@ -1,1 +1,1 @@
-# repo-github
+# Git and Github Course
